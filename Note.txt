@@ -1,0 +1,7 @@
+# installation de nodemon
+  npm install -g nodemon
+
+# installation de express
+  nom install --save express 
+
+# next() Pour paser au middleware suivants
