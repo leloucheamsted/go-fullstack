@@ -5,3 +5,16 @@
   nom install --save express 
 
 # next() Pour paser au middleware suivants
+
+# installation de body-parser pou rendre le corps de notre requete exploitable
+  npm install body-parser --save 
+
+# Installation de mongoose aui facilite l'integration et la communication avec la bd mongo
+  npm install --save mongoose
+
+# Utiliser bcrypt pour crypter et securiser les mots de passes entrees par l'utilisateur
+  par installation de bcrypt 
+  @npm install --save bcrypt 
+
+# installation de mongoose-unique-validator pour verifier les emails et empecher les doublons dans la bd 
+  npm install --save mongoose-unique-validator
